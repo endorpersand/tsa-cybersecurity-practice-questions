@@ -4,7 +4,7 @@ Type: **Reversing**
 This vault uses ASCII encoding for the password. The source code for this vault is here: [VaultDoor4.java](https://jupiter.challenges.picoctf.org/static/09d3002ae349631324a17e2255ae8df2/VaultDoor4.java)
 
 *This question is from picoCTF. PicoCTF flags are of the format: `picoCTF{answer}`.
-Also, vault-door-1 and vault-door-3 were boring.*
+Also, the vault doors before this one were boring.*
 
 
 

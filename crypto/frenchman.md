@@ -6,7 +6,7 @@ Hey, so uhhh... this French dude came into the building and was screaming someth
 I think they said:
 > **aidezmoi**! Ils m'ont laissé dans un lycée américain!
 
-I'm not sure, I don't speak French.
+I'm not sure; I don't speak French.
 
 Anyway, they seemed stressed about this sheet of paper. Any idea?
 
