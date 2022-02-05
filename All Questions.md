@@ -121,12 +121,12 @@ public class CupidShuffle {
         letMeSeeYouDo(input);
     }
 
-    public static String toTheRight(String input) {
+    public static String toTheLeft(String input) {
         int len = input.length();
-        return input.substring(len - 1, len) + input.substring(1, len - 1);
+        return input.substring(len - 1, len) + input.substring(0, len - 1);
     }
 
-    public static String toTheLeft(String input) {
+    public static String toTheRight(String input) {
         return input.substring(1, input.length()) + input.substring(0, 1);
     }
 

@@ -1,8 +1,9 @@
 # Cupid Shuffle
 Type: **Reversing**
-`wwwwiiiieeee````````hhhhaaaa[[[[oooo____ddddkkkkkkkkhhhh[[[[rrrreeee^^^^hhhh]]]]cccc`! I'm having so much fun!
 
-[CupidShuffle.java](../extra/CupidShuffle.java)
+`bbbbhhhh]]]]ccccwwwwiiiieeee````````hhhhaaaa[[[[oooo____ddddkkkkkkkkhhhh[[[[rrrreeee^^^^aaaaooooyyyy`! I'm having so much fun!
+
+[CupidShuffle.java](../_assets/CupidShuffle.java)
 
 *The answer is of the format `flag{answer}`.*
 
