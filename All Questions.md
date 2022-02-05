@@ -13,7 +13,7 @@ I'm not sure; I don't speak French.
 
 Anyway, they seemed stressed about this sheet of paper. Any idea?
 
-![qu'est-ce que cela signifie???|400](../extra/IMG_6741.jpg)
+![qu'est-ce que cela signifie???|400](../_assets/IMG_6741.jpg)
 
 *The answer is of the format `flag{answer}`.*
 
