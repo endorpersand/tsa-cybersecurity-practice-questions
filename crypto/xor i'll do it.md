@@ -1,4 +1,5 @@
 # xor i'll do it
+
 Type: **Cryptography**
 
 I thought `^` meant exponentiation D:
@@ -14,6 +15,6 @@ K3 ^ K4 = `b494eb1ad6832735272f87a4a82681e1b7221b992e51940b85`
 
 *The answer is of the format `flag{answer}`.*
 
-<details><summary>Answer</summary>
-<code>flag{george_xorwell_1984}</code>
-</details>
+## Solution
+
+`flag{george_xorwell_1984}`

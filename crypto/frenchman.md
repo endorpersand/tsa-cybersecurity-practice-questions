@@ -1,4 +1,5 @@
 # frenchman
+
 Type: **Cryptography**
 
 Hey, so uhhh... this French dude came into the building and was screaming something?
@@ -14,9 +15,8 @@ Anyway, they seemed stressed about this sheet of paper. Any idea?
 
 *The answer is of the format `flag{answer}`.*
 
-<details><summary>Hint 1</summary>
-<p>I think the dude was mentioning something about "le chiffrage indéchiffrable"? Something about a V guy??</p>
-</details>
-<details><summary>Answer</summary>
-<code>flag{if_only_gsmst_had_french}</code>
-</details>
+**Hint**: I think the dude was mentioning something about "le chiffrage indéchiffrable"? Something about a V guy??
+
+## Solution
+
+`flag{if_only_gsmst_had_french}`
