@@ -10,4 +10,6 @@ This is a really weird text file [TXT](https://jupiter.challenges.picoctf.org/st
 
 ## Solution
 
-`picoCTF{now_you_know_about_extensions}`
+If you open up the .txt, it appears like a .png. Rename the file extension to .png.
+
+**Answer**: `picoCTF{now_you_know_about_extensions}`

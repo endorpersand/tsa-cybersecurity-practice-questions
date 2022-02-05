@@ -12,4 +12,20 @@ There is a website running at `https://jupiter.challenges.picoctf.org/problem/33
 
 ## Solution
 
-`picoCTF{s0m3_SQL_6b96db35}`
+The website uses SQL to log people into the admin login, but it's not great SQL. It is probably something similar to:
+
+```sql
+SELECT username WHERE username = "{input}" AND password = "{input}"
+```
+
+So, in the username box, if you enter `user" AND 1=1 --`,
+
+the SQL query becomes:
+
+```sql
+SELECT username WHERE username = "user" AND 1=1 --" AND password = ""
+```
+
+Since this is always true, the site allows you to automatically log in.
+
+**Answer**: `picoCTF{s0m3_SQL_6b96db35}`

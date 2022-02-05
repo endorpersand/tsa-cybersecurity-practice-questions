@@ -19,4 +19,10 @@ Anyway, they seemed stressed about this sheet of paper. Any idea?
 
 ## Solution
 
-`flag{if_only_gsmst_had_french}`
+The cipher this question uses is the Vigenère cipher (as hinted by the French and the colloquial name for the cipher: "le chiffrage indéchiffrable").
+
+The passphrase is aidezmoi (as hinted by the bold and incorrect spelling).
+
+Plug that into a decoder and you're done!
+
+**Answer**: `flag{if_only_gsmst_had_french}`

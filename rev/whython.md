@@ -16,4 +16,17 @@ What does this code even do?
 
 ## Solution
 
-`flag{its_called_a_comprehension_but_wheres_the_comprehending}`
+This code...
+
+1. reverses the flag
+2. shifts all the characters down by one ASCII value
+3. adds underlines between each character
+4. removes 40 of those underlines
+
+The reverse of this is:
+
+1. remove **all** underlines
+2. shift the characters up by one ASCII value
+3. unreverse the flag
+
+**Answer**: `flag{its_called_a_comprehension_but_wheres_the_comprehending}`

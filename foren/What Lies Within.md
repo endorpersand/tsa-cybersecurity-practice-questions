@@ -10,4 +10,6 @@ There's something in the [building](https://jupiter.challenges.picoctf.org/stati
 
 ## Solution
 
-`picoCTF{h1d1ng_1n_th3_b1t5}`
+https://stylesuxx.github.io/steganography/
+
+**Answer**: `picoCTF{h1d1ng_1n_th3_b1t5}`

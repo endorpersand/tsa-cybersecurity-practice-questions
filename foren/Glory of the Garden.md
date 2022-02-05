@@ -10,4 +10,6 @@ This [garden](https://jupiter.challenges.picoctf.org/static/43c4743b3946f427e883
 
 ## Solution
 
-`picoCTF{more_than_m33ts_the_3y3657BaB2C}`
+Open a hex editor, `Ctrl + F` "pico" and the answer is found at the bottom of the file.
+
+**Answer**: `picoCTF{more_than_m33ts_the_3y3657BaB2C}`

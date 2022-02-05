@@ -10,5 +10,14 @@ Can you find the robots? `https://jupiter.challenges.picoctf.org/problem/36474/`
 
 ## Solution
 
-`picoCTF{ca1cu1at1ng_Mach1n3s_477ce}`
+The site is hinting you towards the site's `robot.txt`.
 
+If you visit http://jupiter.challenges.picoctf.org:36474/robots.txt, there is an interesting line:
+
+```
+Disallow: /477ce.html
+```
+
+Visit http://jupiter.challenges.picoctf.org:36474/477ce.html and get the flag.
+
+**Answer**: `picoCTF{ca1cu1at1ng_Mach1n3s_477ce}`

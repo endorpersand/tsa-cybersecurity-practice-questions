@@ -17,4 +17,24 @@ K3 ^ K4 = `b494eb1ad6832735272f87a4a82681e1b7221b992e51940b85`
 
 ## Solution
 
-`flag{george_xorwell_1984}`
+xor is a very special operation.
+
+Note what happens when you calculate `5 ^ 10 ^ 10`:
+
+```
+5 ^ 10 = 15
+15 ^ 10 = 5
+```
+
+As you can see, xor is its own inverse.
+So, to get the flag, apply XORs to cancel out the K1 ^ K2 ^ K3 ^ K4 in the first line.
+
+This can be done as so:
+
+```
+(Flag ^ K1 ^ K2 ^ K3 ^ K4) ^ (K1 ^ K3) ^ (K2 ^ K3) ^ (K3 ^ K4)
+```
+
+Calculate the result and convert the hex into bytes.
+
+**Answer**: `flag{george_xorwell_1984}`
